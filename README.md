@@ -29,15 +29,15 @@
   
 ## 준비 사항  
   
-필수
-1.vscode 
-2.android studio
-3.flutter 설치
-4.flutter로 헬로월드 띄워보기
+### 필수
+1. vscode 
+2. android studio
+3. flutter 설치
+4. flutter로 헬로월드 띄워보기
 
-추천
-5.nodejs 설치
-7.docker 설치
+### 추천
+5. nodejs 설치
+7. docker 설치
 
 ## 커리큘럼
 - Flutter 화면 개발 위주 보다는 전체적인 서비스 개발 목표로 진행할 예정입니다.
